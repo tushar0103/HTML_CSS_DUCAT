@@ -7,3 +7,7 @@
 # 20 May Assignment
 ![Screenshot 2024-05-20 224715](https://github.com/tushar0103/HTML_CSS_DUCAT/assets/109269801/0ce2effc-fe15-4bd8-ae37-4f61189aa81e)
 
+# position example
+
+![Screenshot 2024-05-28 180213](https://github.com/tushar0103/HTML_CSS_DUCAT/assets/109269801/55c4a824-27e0-446d-ba5c-fadfbdce457f)
+
