@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .main{
+            width: 500px;
+            text-align: justify;
+
+        }
+        #p1{
+            height: 100px;
+            width: 500px;
+            text-align: justify;
+            transition-property: all;
+            transition-duration: 2s;
+            transition-delay: 8ms;
+            transition-timing-function: ease-in-out;
+
+        }
+       #p1:hover{
+            height: 100px;
+            width: 500px;
+          background-color: yellow;
+            border-radius: 20px;
+            box-shadow: rgb(red, green, blue);
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="main">
+<p id="p1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel porro recusandae neque inventore accusantium, quasi enim est nemo molestias nostrum architecto in voluptate ex doloribus distinctio aliquam odio expedita ea.</p>
+        <div class="image"><img src="abdul.jpg" alt=""></div>
+    </div>
+</body>
+</html>
