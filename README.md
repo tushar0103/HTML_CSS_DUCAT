@@ -14,3 +14,7 @@
 #transform assignment
 ![Screenshot 2024-05-30 161210](https://github.com/tushar0103/HTML_CSS_DUCAT/assets/109269801/7d639c19-d70e-4e5f-ba59-91d70d0c47cf)
 
+#traffic light with opacity animation
+![Screenshot 2024-05-30 223722](https://github.com/tushar0103/HTML_CSS_DUCAT/assets/109269801/717c044f-8848-4b80-bdd9-031ff4ed2011)
+
+
