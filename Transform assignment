@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .front{
+            width: 800px;
+            height: 500px;
+            position: relative;
+            top: 110px;
+            left: 100px;
+            background-color: #1F75FE;
+            border-radius: 20px 20px 0px 0px;
+
+
+            transform: translate(450px, -320px) rotate(-10deg);
+    /* display: inline-block; */
+    float: left;
+    margin-top: -550px;
+    margin-left: -300px;
+           
+        }
+        .main{
+            display: flex;
+            position: relative;
+            
+            left: 50px;
+        }
+        .main2{
+            
+        }
+        .navbar ul li{
+           display: inline;
+           margin: 30px 30px 0px 0px;
+           font-size: 20px;
+           color: white;
+           font-weight: 600;
+        }
+        ul {
+  list-style-type: none;
+  margin: 30px 30px 0px 0px;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: right;
+}
+
+li{
+  display: block;
+  padding: 8px;
+ 
+}
+.main2{
+    padding: 100px 0px 0px 100px;
+ color: white;
+ font-size: 50px;
+ font-weight: 800;
+}
+.container{
+    /* width: 500px;
+    height: 800px; */
+border: solid;
+display: flex;
+position: relative;
+top: 0;
+left: 600px;
+
+
+height: 1000px;
+    width: 50%;
+    /* border: solid black; */
+    /* display: inline-block; */
+    transform: translate(150px, -120px) rotate(-10deg);
+    background-color: white;
+}
+.subcontainer1{
+    width: 50%;
+    padding: 20px;
+}
+.subcontainer2{
+    width: 50%;
+    padding: 20px;
+}
+/* .univers{
+    display: inline;
+} */
+.para{
+text-align: justify;
+font-size: 20px;
+
+}
+
+    </style>
+</head>
+<body><div class="univers">
+  
+            <div class="container">
+                <div class="subcontainer1"><img src="abdul.jpg" alt="">   
+                <br> <br>
+                <!-- +++++ -->
+                <!-- <div class="front">
+                    <div class="navbar">
+                        <ul>
+                            <li>Blog</li>
+                            <li>About</li>
+                            <li>Contact</li>
+                        </ul>
+                    </div>
+                    <div class="main">
+                        <div class="main1"><img src="sport.jpg" alt="" width="250px" height="430px" style="border-radius: 110px 110px 0px 0px;"></div>
+                        <div class="main2">PASS IT ON
+                            <br> <SPAN style="font-size: 25px; font-weight: 100;">SPORTS BLOG</SPAN> 
+                            <SPAN style="font-style: 5px;"><h6><U>RECENT ARTICLES-></U></h6></SPAN>
+                        </div> -->
+
+
+                <!-- +++++ -->
+                </div>
+                <div class="subcontainer2"><p class="para">Lorem ipsum dolor sit amet conseuod pariatur blanditiis
+                     voluptate! <br> <br>
+                Aliquid, officiis sint. Velit aliquid nam veritatis minus quibusdam. <br> <br> <br>Fugit 
+                sint rem nostrum omnis, voluptatem voluptate culpa et, obcaecati voluptatibus
+                <br><br>iofjerigergherhgjrgr wrfgiorg gwrgknrhgr gwhruighuirhg ghwriogiorg ghrofgwr howhrghowr  <br><br>grhgowrgguoo fwiohgiorg hiofhr  quibusdam totam 
+                praesentium itaque veniam, dolores laudantium amet facere natus.</p>
+            <img src="sport.jpg" alt="" width="350px" height="400px"></div>
+            </div>
+        </div>
+       
+    </div>
+
+
+      <div class="front">
+        <div class="navbar">
+            <ul>
+                <li>Blog</li>
+                <li>About</li>
+                <li>Contact</li>
+            </ul>
+        </div>
+        <div class="main">
+            <div class="main1"><img src="sport.jpg" alt="" width="250px" height="400px" style="border-radius: 110px 110px 0px 0px;"></div>
+            <div class="main2">PASS IT ON
+                <br> <SPAN style="font-size: 25px; font-weight: 100;">SPORTS BLOG</SPAN> 
+                <SPAN style="font-style: 5px;"><h6><U>RECENT ARTICLES-></U></h6></SPAN>
+            </div>
+
+</div>
+</body>
+</html>
